@@ -1,8 +1,9 @@
 # 알고리즘 풀 문제들
-## 2021-01-11
+## 2021-01-18
 
-+ [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
-+ [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)
-+ [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
-+ [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-+ [스타트와 링크](https://www.acmicpc.net/problem/14889)
++ [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
++ [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
++ [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062)
++ [감시](https://www.acmicpc.net/problem/15683)
++ [테트로미노](https://www.acmicpc.net/problem/14500)
++ [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
