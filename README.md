@@ -2,7 +2,7 @@
 ## 2021-02-01
 
 + [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062)
-+ [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/17680)
++ [[1차]](https://programmers.co.kr/learn/courses/30/lessons/17680)
 + [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
 + [[3차]방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)
 + [사다리 조작](https://www.acmicpc.net/problem/15684)
