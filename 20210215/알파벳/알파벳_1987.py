@@ -16,8 +16,10 @@ for _ in range(R):
     read = sys.stdin.readline().rstrip()
     graph.append(read)
 
-def Search(par_x, par_y, count):
-    if (par_x <= -1 or par_y <= -1 or par_x >= R or par_y >= C) or (graph[par_x][par_y] in visited):
+def Search(par_x, par_y):
+    global count
+
+    if par_x <= -1 or par_y <= -1 or par_x >= R or par_y >= C or graph[par_x][par_y] in visited:
         return
 
     count += 1
@@ -32,6 +34,7 @@ def Search(par_x, par_y, count):
         Search(new_x, new_y)
     
     del visited[-1]
+    count -= 1
 
-Search(0, 0, count)
+Search(0, 0)
 print(max(result))
